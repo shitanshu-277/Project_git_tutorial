@@ -1,13 +1,9 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
+console.log("hi")
+=======
 hi how are you
-=======
-console.log("hi")
 >>>>>>> Stashed changes
 =======
-console.log("hi")
->>>>>>> Stashed changes
-=======
-console.log("hi")
+hi how are you
 >>>>>>> Stashed changes
